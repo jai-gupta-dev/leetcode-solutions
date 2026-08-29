@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0007-reverse-integer](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
