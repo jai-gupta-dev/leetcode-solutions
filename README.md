@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0007-reverse-integer](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 ## String Matching
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
