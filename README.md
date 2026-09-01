@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
