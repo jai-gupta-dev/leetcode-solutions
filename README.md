@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0070-climbing-stairs](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
