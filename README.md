@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0058-length-of-last-word](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
