@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0035-search-insert-position](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 <!---LeetCode Topics End-->
