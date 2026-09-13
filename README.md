@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0058-length-of-last-word](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
