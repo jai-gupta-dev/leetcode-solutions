@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0027-remove-element](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
 | [0303-range-sum-query-immutable](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 ## Stack
 |  |
