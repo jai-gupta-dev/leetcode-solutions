@@ -1,16 +1,13 @@
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         Dictionary<int,int> value = new Dictionary<int,int>();
-    int need = 0;
         for(int i=0;i<nums.Length;i++){
-            need = target - nums[i];
-            if(value.ContainsKey(need)){
-                return new int[]{value[need],i};
+            int newvalue = target - nums[i];
+            if(value.ContainsKey(newvalue)){
+                return new int[] {value[newvalue],i};
             }
-            else if(!value.ContainsKey(nums[i])){
-                value.Add(nums[i], i); 
-            }
+            value[nums[i]] = i;
         }
-        return new int[]{};
+        return new int[] {0};
     }
 }
