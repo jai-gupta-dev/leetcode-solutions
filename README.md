@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0202-happy-number) |
 ## Math
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
