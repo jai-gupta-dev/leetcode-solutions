@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0015-3sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0069-sqrtx) |
 ## String Matching
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jai-gupta-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
